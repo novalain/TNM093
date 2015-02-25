@@ -10,6 +10,8 @@ sgct::Engine * gEngine;
 void myInitOGLFun();
 void myPreSyncFun();
 void myDrawFun();
+//totte gör en funktion
+
 
 // Add comment
 
