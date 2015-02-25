@@ -11,6 +11,8 @@ void myInitOGLFun();
 void myPreSyncFun();
 void myDrawFun();
 
+// Add comment
+
 //for syncing variables across a cluster
 void myEncodeFun();
 void myDecodeFun();
